@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AllMailBox">
+	<test name="GmailMailBoxTest">
+		<classes>
+			<class name="GmailMailBoxTest" />
+		</classes>
+	</test>
+
+	<test name="IUAMailBoxTest">
+		<classes>
+			<class name="IUAMailBoxTest" />
+		</classes>
+	</test>
+
+	<test name="YandexMailBoxTest">
+		<classes>
+			<class name="YandexMailBoxTest" />
+		</classes>
+	</test>
+
+</suite>
